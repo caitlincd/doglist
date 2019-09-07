@@ -1,7 +1,6 @@
 //this program makes a list of dogs: name, breed, age
 //it is organized by age from youngest to oldest
 
-#include "pch.h"
 #include <iostream>
 #include <string>
 
